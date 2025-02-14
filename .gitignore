@@ -1,0 +1,15 @@
+# Delphi
+*.dcu
+*.dsk
+*.exe
+*.bak
+*.obj
+*.map
+*.~*
+*.dproj.local
+*.local
+*.dfm~
+
+# Folders
+\bin\
+\obj\
